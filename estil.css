@@ -1,0 +1,781 @@
+header{
+    margin-left: -8px;
+    padding: 15px;
+    margin-right: -7px;
+    margin-top: -10px;
+    background-color: black;
+    display: flex;
+    position: fixed;
+    z-index: 1000;
+    width: 97.7%;
+}
+a{
+    position: relative;
+    right: -400px;
+}
+
+.tecn{
+    padding: 0 13px;
+    color: white;
+    position: relative;
+    margin-left: -73px;
+    text-decoration: none;
+}
+.tecn:hover{
+    color: gainsboro;
+}
+.iphone{
+    padding: 0 13px;
+    color: white;
+    text-decoration: none;
+}
+.iphone:hover{
+    color: gainsboro;
+}
+.mac{
+    padding: 0 13px;
+    color: white;
+    text-decoration: none;
+}
+.mac:hover{
+    color: gainsboro;
+}
+.ipad{
+    padding: 0 13px;
+    color: white;
+    text-decoration: none;
+}
+.ipad:hover{
+    color: gainsboro;
+}
+.watch{
+    padding: 0 13px;
+    color: white;
+    text-decoration: none;
+}
+.watch:hover{
+    color: gainsboro;
+}
+.acerc{
+    padding: 0 13px;
+    color: white;
+    text-decoration: none;
+}
+.acerc:hover{
+    color: gainsboro;
+}
+.regis{
+    position: relative;
+    padding: 0 10px;
+    color: white;
+    right: -717px;
+    text-decoration: none;
+}
+.regis:hover{
+    color: gainsboro;
+}
+.login{
+    position: relative;
+    right: -730px;
+    color: white;
+    text-decoration: none;
+}
+.login:hover{
+    color: gainsboro;
+}
+.img{
+    margin-left: -10px;
+}
+.ceram h3{
+    margin-left: 137px;
+}
+.ceram button{
+    margin-left: 176px;
+}
+.scaner{
+    text-align: right;
+    margin-top: -288px;
+}
+.scaner h3{
+    position: relative;
+    left: -140px;
+}
+.scaner button{
+    position: relative;
+    left: -165px;
+}
+
+.proces{
+    text-align: center;
+    margin-top: -291px;
+
+}
+.butto{
+    font-size: 17px;
+    background-color:black;
+    border-radius: 7px;
+    color: white;
+    padding: 1px 8px;
+    cursor: pointer;
+}
+.butto:hover{
+    background-color: gray;
+}
+.iphone15{
+    margin-left: -8px;
+}
+.ipho15{
+    position: relative;
+    top: -356px;
+    margin-left: 5px;
+    color: white;
+    font-size: 20px;
+}
+.iphon15{
+    position: relative;
+    top: -352px;
+    margin-left: 37px;
+    border: solid 1px black;
+    background-color: rgb(212, 16, 212);
+    color: white;
+    border-radius: 4px;
+    padding: 5px;
+    cursor: pointer;
+}
+.iphon15:hover{
+    background-color: blueviolet;
+    color: white;
+}
+.parts-iphones{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+.losiphones{
+    margin: 10px;
+    padding: 30px 10px;
+}
+
+.losiphones img{
+    width: 150px;
+    height: 155px;
+}
+.iphon14h4{
+    position: relative;
+    left: 60px;
+}
+.iphon14bu{
+    position: relative;
+    left: 42px;
+    border-radius: 4px;
+    border: solid 1px black;
+    background-color: rgb(245, 46, 46);
+    color: white;
+    cursor: pointer;
+}
+.iphon14bu:hover{
+    background-color: rgb(241, 8, 8);
+}
+.ipho14pro:hover{
+    transform:
+      rotate(0deg)
+      scale(1)
+      translateY(-5px);
+}
+.iphonpro13h4{
+    position: relative;
+    left: 60px;
+}
+.iphon13probu{
+    position: relative;
+    left: 42px;
+    border-radius: 4px;
+    border: solid 1px black;
+    background-color: rgb(245, 46, 46);
+    color: white;
+    cursor: pointer;
+}
+.iphon13probu:hover{
+    background-color: rgb(241, 8, 8);
+}
+.ipho13pro:hover{
+    transform:
+      rotate(0deg)
+      scale(1)
+      translateY(-5px);
+}
+.iphon13h3{
+    position: relative;
+    left: 40px;
+}
+.iphon13h4{
+    position: relative;
+    left: 60px;
+}
+.iphon13bu{
+    position: relative;
+    left: 44px;
+    border-radius: 4px;
+    border: solid 1px black;
+    background-color: rgb(245, 46, 46);
+    color: white;
+    cursor: pointer;
+}
+.iphon13bu:hover{
+    background-color: rgb(241, 8, 8);
+}
+.ipho13:hover{
+    transform:
+      rotate(0deg)
+      scale(1)
+      translateY(-5px);
+}
+.iphon12h3{
+    position: relative;
+    left: 40px;
+}
+.iphon12h4{
+    position: relative;
+    left: 60px;
+}
+.iphon12bu{
+    position: relative;
+    left: 44px;
+    border-radius: 4px;
+    border: solid 1px black;
+    background-color: rgb(245, 46, 46);
+    color: white;
+    cursor: pointer;
+}
+.iphon12bu:hover{
+    background-color: rgb(241, 8, 8);
+}
+.ipho12:hover{
+    transform:
+      rotate(0deg)
+      scale(1)
+      translateY(-5px);
+}
+.iphon11h3{
+    position: relative;
+    left: 7px;
+}
+.iphon11h4{
+    position: relative;
+    left: 60px;
+}
+.iphon11bu{
+    position: relative;
+    left: 44px;
+    border-radius: 4px;
+    border: solid 1px black;
+    background-color: rgb(245, 46, 46);
+    color: white;
+    cursor: pointer;
+}
+.iphon11bu:hover{
+    background-color: rgb(241, 8, 8);
+}
+.ipho11:hover{
+    transform:
+      rotate(0deg)
+      scale(1)
+      translateY(-5px);
+}
+.iphx{
+    position: relative;
+    left: -20px;
+}
+.iphx:hover{
+    transform:
+      rotate(0deg)
+      scale(1)
+      translateY(-5px);
+}
+.iphon10h3{
+    position: relative;
+    right: -22px;
+}
+.iphon10h4{
+    position: relative;
+    right: -44px;
+}
+.iphon10bu{
+    position: relative;
+    right: -27px;
+    border-radius: 4px;
+    border: solid 1px black;
+    background-color: rgb(245, 46, 46);
+    color: white;
+    cursor: pointer;
+}
+.iphon10bu:hover{
+    background-color: rgb(241, 8, 8);
+}
+.img-mac img{
+    margin-left: -8px;
+}
+.img-mac h3{
+    font-size: 20px;
+    color: white;
+    position: relative;
+    top: 210px;
+    margin-left: 12px;
+}
+.img-mac button{
+    font-size: 15px;
+    color: white;
+    position: relative;
+    top: 210px;
+    margin-left: 35px;
+    background-color: #fa05c5b2;
+    border-radius: 5px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+.img-mac button:hover{
+    background-color: purple;
+}
+.mac{
+    justify-content: space-evenly;
+    display: flex;
+    flex-wrap: wrap;
+}
+.macstipos{
+   padding: 20px 20px;
+   margin: 10px;
+}
+.mac13h3{
+    position: relative;
+    left: 10px;
+    color: black;
+}
+.mac13h4{
+    position: relative;
+    left: 53px;
+    color: black;
+}
+.mac13bu{
+    position: relative;
+    left: 37px;
+    border-radius: 4px;
+    border: solid 1px black;
+    background-color: rgb(245, 46, 46);
+    color: white;
+    cursor: pointer;
+}
+.mac13bu:hover{
+    background-color: rgb(241, 8, 8);;
+ }
+.macair:hover{
+    transform:
+      rotate(0deg)
+      scale(1)
+      translateY(-5px);
+}
+.macproh3{
+    position: relative;
+    left: 18px;
+    color: black;
+}
+.macproh4{
+    position: relative;
+    left: 50px;
+    color: black;
+}
+.macprobu{
+    position: relative;
+    left: 37px;
+    border-radius: 4px;
+    border: solid 1px black;
+    background-color: rgb(245, 46, 46);
+    color: white;
+    cursor: pointer;
+}
+.macprobu:hover{
+    background-color: rgb(241, 8, 8);;
+ }
+ .macpro:hover{
+    transform:
+      rotate(0deg)
+      scale(1)
+      translateY(-5px);
+ }
+.macpro13h3{
+    position: relative;
+    left: 7px;
+    color: black;
+}
+.macpro13h4{
+    position: relative;
+    left: 55px;
+    color: black;
+}
+.macpro13bu{
+    position: relative;
+    left: 41px;
+    border-radius: 4px;
+    border: solid 1px black;
+    background-color: rgb(245, 46, 46);
+    color: white;
+    cursor: pointer;
+}
+.macpro13bu:hover{
+    background-color: rgb(241, 8, 8);;
+ }
+ .macpro13:hover{
+    transform:
+      rotate(0deg)
+      scale(1)
+      translateY(-5px);
+ }
+.macpro14h3{
+    position: relative;
+    right: -14px;
+    color: black;
+    position: relative;
+    top: -10px;
+}
+.macpro14h4{
+    position: relative;
+    right: -60px;
+    color: black;
+    position: relative;
+    top: -10px;
+}
+.macpro14bu{
+    position: relative;
+    right: -48px;
+    position: relative;
+    top: -10px;
+    border-radius: 4px;
+    border: solid 1px black;
+    background-color: rgb(245, 46, 46);
+    color: white;
+    cursor: pointer;
+}
+.macpro14bu:hover{
+   background-color: rgb(241, 8, 8);;
+}
+.macpro14:hover{
+    transform:
+      rotate(0deg)
+      scale(1)
+      translateY(-5px);
+}
+.img-ipad{
+    position: relative;
+    left: 520px;
+}
+.ipadh1{
+    margin-left: 180px;
+    position: relative;
+    top: -440px;
+    font-size: 40px;
+}
+.ipadsh3{
+    margin-left: 238px;
+    position: relative;
+    top: -440px;
+    
+}
+.ipadbu{
+    margin-left: 220px;
+    position: relative;
+    top: -440px;
+    background-color: #fa05c5b2;
+    color: white;
+    border-radius: 5px;
+    border: solid 1px black;
+    cursor: pointer;
+    padding: 4px 10px;
+}
+.ipadbu:hover{
+    background-color: #d306a6b2;
+}
+.ipadbut{
+    margin-left: -497px;
+    position: relative;
+    top: -400px;
+    background-color: #fa05c5b2;
+    color: white;
+    border-radius: 5px;
+    border: solid 1px black;
+    cursor: pointer;
+    padding: 0px 5px;
+}
+.ipadbut:hover{
+    background-color: #d306a6b2;
+}
+.ipad{
+    justify-content: space-evenly;
+    display: flex;
+    flex-wrap: wrap;
+}
+.ipadtipos{
+    padding: 20px 20px;
+    margin: 10px;
+}
+.ipadproh3{
+    position: relative;
+    left: 37px;
+    color: black;
+    position: relative;
+    top: -10px;
+}
+.ipadproh4{
+    position: relative;
+    right: -55px;
+    color: black;
+    position: relative;
+    top: -10px;
+}
+.ipadprobu{
+    position: relative;
+    right: -39px;
+    position: relative;
+    top: -10px;
+    border-radius: 4px;
+    border: solid 1px black;
+    background-color: rgb(245, 46, 46);
+    color: white;
+    cursor: pointer;
+}
+.ipadprobu:hover{
+   background-color: rgb(241, 8, 8);;
+}
+.ipadt-pro:hover{
+    transform:
+      rotate(0deg)
+      scale(1)
+      translateY(-5px);
+}
+
+.ipadairh3{
+    position: relative;
+    right: -43px;
+    color: black;
+    position: relative;
+    top: -10px;
+}
+.ipadairh4{
+    position: relative;
+    right: -60px;
+    color: black;
+    position: relative;
+    top: -10px;
+}
+.ipadairbu{
+    position: relative;
+    right: -44px;
+    position: relative;
+    top: -10px;
+    border-radius: 4px;
+    border: solid 1px black;
+    background-color: rgb(245, 46, 46);
+    color: white;
+    cursor: pointer;
+}
+.ipadairbu:hover{
+   background-color: rgb(241, 8, 8);;
+}
+.ipadair:hover{
+    transform:
+      rotate(0deg)
+      scale(1)
+      translateY(-5px);
+}
+.ipadminih3{
+    position: relative;
+    right: -34px;
+    color: black;
+    position: relative;
+    top: 0px;
+}
+.ipadminih4{
+    position: relative;
+    right: -60px;
+    color: black;
+    position: relative;
+    top: 0px;
+}
+.ipadminibu{
+    position: relative;
+    right: -45px;
+    position: relative;
+    top: 0px;
+    border-radius: 4px;
+    border: solid 1px black;
+    background-color: rgb(245, 46, 46);
+    color: white;
+    cursor: pointer;
+}
+.ipadminibu:hover{
+   background-color: rgb(241, 8, 8);;
+}
+.ipadmini{
+    position: relative;
+    top: 10px;
+}
+.ipadmini:hover{
+    transform:
+      rotate(0deg)
+      scale(1)
+      translateY(-5px);
+}
+.ipadh3{
+    position: relative;
+    right: -58px;
+    color: black;
+    position: relative;
+    top: -10px;
+}
+.ipadh4{
+    position: relative;
+    right: -60px;
+    color: black;
+    position: relative;
+    top: -10px;
+}
+.ipadbutt{
+    position: relative;
+    right: -45px;
+    position: relative;
+    top: -10px;
+    border-radius: 4px;
+    border: solid 1px black;
+    background-color: rgb(245, 46, 46);
+    color: white;
+    cursor: pointer;
+}
+.ipadbutt:hover{
+   background-color: rgb(241, 8, 8);;
+}
+.ipadd:hover{
+    transform:
+      rotate(0deg)
+      scale(1)
+      translateY(-5px);
+}
+.appl-wat{
+    margin-left: -8px;
+}
+
+.apple-wa h3{
+    position: relative;
+    top: -410px;
+    color: white; 
+}
+.apple-wa button{
+    position: relative;
+    top: -420px;
+    background-color: #fa05c5b2; 
+    color: white;
+    left: 50px;
+    border-radius: 5px;
+    border: 1px solid black;
+    cursor: pointer;
+    padding: 2px 4px;
+}
+.apple-wa button:hover{
+    background-color: purple;
+}
+.watch{
+    justify-content: space-evenly;
+    display: flex;
+    flex-wrap: wrap;
+}
+.watchtipos{
+    padding: 20px 20px;
+    margin: 10px;
+}
+.apwatchse8h3{
+    position: relative;
+    left: -10px;
+    color: black;
+}
+.apwatchse8h4{
+    position: relative;
+    left: 53px;
+    color: black;
+}
+.apwatchse8bu{
+    position: relative;
+    left: 37px;
+    border-radius: 4px;
+    border: solid 1px black;
+    background-color: rgb(245, 46, 46);
+    color: white;
+    cursor: pointer;
+}
+.apwatchse8bu:hover{
+    background-color: rgb(241, 8, 8);;
+ }
+.apwatchse8:hover{
+    transform:
+      rotate(0deg)
+      scale(1)
+      translateY(-5px);
+}
+.appseh3{
+    position: relative;
+    left: 8px;
+    color: black;
+}
+.appseh4{
+    position: relative;
+    left: 53px;
+    color: black;
+}
+.appsebu{
+    position: relative;
+    left: 37px;
+    border-radius: 4px;
+    border: solid 1px black;
+    background-color: rgb(245, 46, 46);
+    color: white;
+    cursor: pointer;
+}
+.appsebu:hover{
+    background-color: rgb(241, 8, 8);;
+ }
+.applese:hover{
+    transform:
+      rotate(0deg)
+      scale(1)
+      translateY(-5px);
+}
+.appultrah3{
+    position: relative;
+    left: 2px;
+    color: black;
+}
+.appultrah4{
+    position: relative;
+    left: 58px;
+    color: black;
+}
+.appultrabu{
+    position: relative;
+    left: 43px;
+    border-radius: 4px;
+    border: solid 1px black;
+    background-color: rgb(245, 46, 46);
+    color: white;
+    cursor: pointer;
+}
+.appultrabu:hover{
+    background-color: rgb(241, 8, 8);;
+ }
+.appultra:hover{
+    transform:
+      rotate(0deg)
+      scale(1)
+      translateY(-5px);
+}
+@media(max-width:1300px){
+    header{
+        padding: 15px 15px;
+    }
+}
